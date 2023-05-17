@@ -1,0 +1,16 @@
+.test {
+    text-align: center;
+    width: 500px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.first_row {
+    background-color: orange;
+    color: white;
+}
+.all_other_rows:nth-child(odd) {
+    background-color: lime;
+}
+.all_other_rows:nth-child(even) {
+    background-color: red;
+}

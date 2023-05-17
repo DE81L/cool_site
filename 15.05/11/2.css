@@ -1,0 +1,19 @@
+.box {
+    width: 1920px;
+    height: 800px;
+    background: url(background.jpg);
+    border-radius: 100px;
+    color: gray;
+    display: flex;
+    flex-direction: column;
+}
+.header {
+    margin-top: 200px;
+    font-weight: bold;
+    font-size: 90px;
+}
+a{
+    margin-left: 240px;
+    margin-top: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

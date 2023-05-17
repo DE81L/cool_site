@@ -1,0 +1,44 @@
+.button {
+    background-color: rgb(5, 87, 5);
+    color: rgba(255, 60, 0, 0.644);
+    width: max-content;
+    padding: 20px 30px 20px 30px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.button:hover {
+    background-color: gray;
+    padding: 25px 35px 25px 35px;
+}
+a {
+    text-decoration: none;
+}
+.t {
+    text-align: center;
+    width: 90%;
+    border: 6px solid lightblue;
+    height: 300px;
+}
+.hhead {
+    text-align: left;
+    padding-left: 25px;
+    color: lightblue;
+    font-size: 25px;
+    border-bottom: 2px dashed lightblue;
+}
+.head {
+    color: lightblue;
+    font-size: 25px;
+    border-bottom: 2px dashed lightblue;
+}
+.hnum {
+    text-align: left;
+    padding-left: 25px;
+    font-size: 25px;
+}
+.num {
+    font-size: 25px;
+}
+.tt {
+    height: 60px;
+}

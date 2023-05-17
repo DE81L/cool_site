@@ -1,0 +1,21 @@
+.ring{
+    width: max-content;
+    border: 2px solid black;
+    margin: 50px;
+    border-radius: 100%;
+}
+#ring1 {
+    background-color: red;
+}
+#ring2 {
+    background-color: yellow;
+}
+#ring3 {
+    background-color: blue;
+}
+#ring4 {
+    background-color: green;
+}
+#ring5 {
+    background-color: black;
+}

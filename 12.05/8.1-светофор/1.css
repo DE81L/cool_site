@@ -1,0 +1,21 @@
+.rect {
+    border: 5px solid black;
+    width: 250px;
+
+}
+.krug1 {
+    background-color: red;
+}
+.krug2 {
+    background-color: yellow;
+}
+.krug3 {
+    background-color: green;
+}
+.krug1,.krug2,.krug3 {
+    border-radius: 100%;
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 40px auto;
+}

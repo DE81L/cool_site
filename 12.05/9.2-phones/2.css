@@ -1,0 +1,37 @@
+ul{
+    list-style-image: url(phone.png);
+    list-style-position: inside;
+}
+a{
+    font-size: larger;
+    color: orange;
+    text-decoration: none;
+}
+a:hover{
+    background-color: orange;
+    color: white
+}
+
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    width: 300px;
+    font-size: 26px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: crimson;
+    color: black;
+}
+tr:nth-child(odd){
+    background-color: lime;
+}
+th{
+    background-color: orange;
+    color: white;
+    width: 300px;
+    font-size: 26px;
+    text-align: center;
+}

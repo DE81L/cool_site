@@ -1,0 +1,9 @@
+.box {
+    background: url(background.jpg);
+    width: 260px;
+    height: 100px;
+    border-radius: 20px;
+}
+.imgs {
+    width: 100px;
+}

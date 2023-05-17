@@ -1,0 +1,16 @@
+.box {
+    width: 500px;
+    border: 2px solid purple;
+    background-color: black;
+    text-align: justify;
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+    color: red;
+}
+
+.text {
+    color: white;
+}
