@@ -20,13 +20,7 @@ td{
     width: 300px;
     font-size: 26px;
     text-align: center;
-}
-tr:nth-child(even){
-    background-color: crimson;
-    color: black;
-}
-tr:nth-child(odd){
-    background-color: lime;
+}
 }
 th{
     background-color: orange;
