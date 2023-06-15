@@ -14,14 +14,7 @@ a:hover{
 
 table{
     border-collapse: collapse;
-}
-td{
-    border: 1px solid black;
-    width: 300px;
-    font-size: 26px;
-    text-align: center;
 }
-}
 th{
     background-color: orange;
     color: white;
